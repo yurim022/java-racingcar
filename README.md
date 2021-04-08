@@ -1,4 +1,10 @@
 # 자동차 경주 게임
+
+
+![image](https://user-images.githubusercontent.com/45115557/114044412-2ebabf00-98c2-11eb-99dd-fef0b00c0ce1.png)
+
+* 코드는 yurim022 브랜치에 있습니다.
+
 ## 진행 방법
 * 자동차 경주 게임 요구사항을 파악한다.
 * 요구사항에 대한 구현을 완료한 후 자신의 github 아이디에 해당하는 브랜치에 Pull Request(이하 PR)를 통해 코드 리뷰 요청을 한다.
@@ -22,6 +28,4 @@
  * 모든 로직에 단위 테스트를 구현한다. 단 UI 로직은 제외
  * 자바 코드 컨벤션을 지키면서 프로그래밍한다.
  * else 예약어를 쓰지 않는다. 
-
-![image](https://user-images.githubusercontent.com/45115557/114044412-2ebabf00-98c2-11eb-99dd-fef0b00c0ce1.png)
 
