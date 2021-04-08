@@ -22,3 +22,6 @@
  * 모든 로직에 단위 테스트를 구현한다. 단 UI 로직은 제외
  * 자바 코드 컨벤션을 지키면서 프로그래밍한다.
  * else 예약어를 쓰지 않는다. 
+
+![image](https://user-images.githubusercontent.com/45115557/114044412-2ebabf00-98c2-11eb-99dd-fef0b00c0ce1.png)
+
