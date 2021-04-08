@@ -1,5 +1,8 @@
 # 자동차 경주 게임
 
+![image](https://user-images.githubusercontent.com/45115557/114044412-2ebabf00-98c2-11eb-99dd-fef0b00c0ce1.png)
+### 코드는 yurim022 브랜치에 있습니다
+
 ## 요구사항
 
 * 각 자동차에 이름을 부여할 수 있다. 자동차 이름은 5자를 초과할 수 없다. 
