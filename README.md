@@ -1,9 +1,9 @@
 # 자동차 경주 게임
+*  **코드는 yurim022 브랜치에 있습니다.**
 
 
 ![image](https://user-images.githubusercontent.com/45115557/114044412-2ebabf00-98c2-11eb-99dd-fef0b00c0ce1.png)
 
-*  **코드는 yurim022 브랜치에 있습니다.**
 
 ## 진행 방법
 * 자동차 경주 게임 요구사항을 파악한다.
