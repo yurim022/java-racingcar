@@ -1,5 +1,5 @@
 # 자동차 경주 게임
-## **yurim022 브랜치에 들어가야 코드를 보실 수 있습니다.**
+### **yurim022 브랜치에 들어가야 코드를 보실 수 있습니다.**
 
 ![image](https://user-images.githubusercontent.com/45115557/114044412-2ebabf00-98c2-11eb-99dd-fef0b00c0ce1.png)
  * TDD 를 익히기 위한 
